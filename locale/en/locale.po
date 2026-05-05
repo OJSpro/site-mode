@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-01-05T21:18+00:00\n"
+"PO-Revision-Date: 2026-01-05T21:18+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.siteMode.name"
+msgstr "SiteMode by OJSpro"
+
+msgid "plugins.generic.siteMode.description"
+msgstr "Provides Coming Soon and Maintenance Mode pages for your press with beautiful designs and countdown timers."
+
+msgid "plugins.generic.siteMode.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.siteMode.settings.mode"
+msgstr "Site Mode"
+
+msgid "plugins.generic.siteMode.settings.mode.disabled"
+msgstr "Disabled (Normal Operation)"
+
+msgid "plugins.generic.siteMode.settings.mode.comingSoon"
+msgstr "Coming Soon Mode"
+
+msgid "plugins.generic.siteMode.settings.mode.maintenance"
+msgstr "Maintenance Mode"
+
+msgid "plugins.generic.siteMode.settings.comingSoon.content"
+msgstr "Coming Soon Content"
+
+msgid "plugins.generic.siteMode.settings.comingSoon.content.description"
+msgstr "Enter the content to display on the Coming Soon page. You can use HTML formatting."
+
+msgid "plugins.generic.siteMode.settings.comingSoon.date"
+msgstr "Launch Date & Time"
+
+msgid "plugins.generic.siteMode.settings.comingSoon.date.description"
+msgstr "Select the date and time when your press will launch. The countdown timer will display the time remaining."
+
+msgid "plugins.generic.siteMode.settings.maintenance.content"
+msgstr "Maintenance Mode Content"
+
+msgid "plugins.generic.siteMode.settings.maintenance.content.description"
+msgstr "Enter the content to display on the Maintenance Mode page. You can use HTML formatting."
+
+msgid "plugins.generic.siteMode.settings.saved"
+msgstr "Settings saved successfully."
+
+msgid "plugins.generic.siteMode.comingSoon.title"
+msgstr "Coming Soon"
+
+msgid "plugins.generic.siteMode.comingSoon.login"
+msgstr "Admin Login"
+
+msgid "plugins.generic.siteMode.comingSoon.days"
+msgstr "Days"
+
+msgid "plugins.generic.siteMode.comingSoon.hours"
+msgstr "Hours"
+
+msgid "plugins.generic.siteMode.comingSoon.minutes"
+msgstr "Minutes"
+
+msgid "plugins.generic.siteMode.comingSoon.seconds"
+msgstr "Seconds"
+
+msgid "plugins.generic.siteMode.comingSoon.launched"
+msgstr "We're Live!"
+
+msgid "plugins.generic.siteMode.maintenance.title"
+msgstr "Under Maintenance"
+
+msgid "plugins.generic.siteMode.maintenance.login"
+msgstr "Admin Login"
+
+msgid "plugins.generic.siteMode.maintenance.defaultMessage"
+msgstr "We are currently performing scheduled maintenance. We'll be back online shortly. Thank you for your patience."
+
+msgid "plugins.generic.siteMode.requirement.tinymce"
+msgstr " The TinyMCE plugin must be enabled for full functionality."
+
+msgid "plugins.generic.siteMode.login.subtitle"
+msgstr "Administrator Access"
+
+msgid "plugins.generic.siteMode.login.backToHome"
+msgstr "Back to Home"
+
